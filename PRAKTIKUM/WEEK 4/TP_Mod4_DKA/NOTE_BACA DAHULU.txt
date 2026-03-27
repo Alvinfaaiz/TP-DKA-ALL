@@ -1,0 +1,4 @@
+1. Silahkan ekstrak 2 file yang ada pada rar berikut (folder & ipynb)
+2. Pastikan file yang telah diekstrak diletakkan pada tempat/folder yang sama
+3. Abaikan folder "asset" dan jangan dirubah rubah
+4. Langsung buka dan kerjakan file ipynb yang telah disediakan
